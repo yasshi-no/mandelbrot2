@@ -16,6 +16,9 @@
 # Mono auto generated files
 mono_crash.*
 
+# 計算した結果
+mandelbrot2/mydata/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
