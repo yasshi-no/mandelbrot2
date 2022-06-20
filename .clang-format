@@ -1,0 +1,22 @@
+---
+BasedOnStyle: Google
+AccessModifierOffset: -4
+BreakBeforeBraces: Linux
+ColumnLimit: 0
+IndentWidth: 4
+
+#AlignAfterOpenBracket: Align
+#AlignConsecutiveAssignments: true
+#AlignConsecutiveDeclarations: true
+#AlignConsecutiveMacros: true
+#AlignOperands: true
+#AlignTrailingComments: true
+#ContinuationIndentWidth: 4
+#IndentCaseLabels: true
+#PointerAlignment: Left
+#SortIncludes: true
+#SpaceAfterCStyleCast: false
+#SpaceBeforeParens: ControlStatements
+#SpacesBeforeTrailingComments: 4
+#SpacesInCStyleCastParentheses: false
+#SpacesInParentheses: true
